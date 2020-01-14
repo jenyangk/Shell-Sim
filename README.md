@@ -1,13 +1,5 @@
 # Assignment 1
 
-## Infomation:
-
-Name: Jen Yang Koh
-
-CCID: jenyang
-
------
-
 ## Design:
 
 Firstly, the when the program launches, the user will be prompted with a simple greeting to let the user know that the shell has already launched.
