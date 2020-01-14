@@ -1,4 +1,4 @@
-# Assignment 1
+# Shell-Sim ( A shell simulator in C)
 
 ## Design:
 
